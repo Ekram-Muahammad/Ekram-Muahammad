@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekram-muahammad&label=Profile%20views&color=0e75b6&style=flat" alt="ekram-muahammad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekram-muahammad" alt="ekram-muahammad" /></a> </p>
 
 - 📫 How to reach me **ekram.developer@gmail.com**
 
